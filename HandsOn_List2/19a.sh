@@ -1,0 +1,1 @@
+mknod myfifo_sys p
